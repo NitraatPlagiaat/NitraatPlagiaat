@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Donderse programmeur
 --------------------
 
-het programmeurt hier. Wie heeft hier zitten schijten.
+het programmeurt hier. Wie heeft hier zitten schijten?
 
-* 🌍  I'm based in Almeloooooooooooooooo
+* 🌍  I'm based in Almeloooooooooooooooo, The Netherlands
 * 🚀  I'm currently working on [Heavy Metal Music Database](http://hmmdb.nl)
 * 🧠  I'm learning PHP, Laravel, C#
 * 🤝  I'm open to collaborating on Any project that wakes interest in me
