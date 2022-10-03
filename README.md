@@ -12,6 +12,8 @@ het programmeurt hier. Wie heeft hier zitten schijten?
 * 🤝  I'm open to collaborating on Any project that wakes interest in me
 * ⚡  Guitar player and metal concert visitor. And I love to look at the stars in the sky.
 
+<a href="https://wakatime.com/@fce8eacc-0d9e-4691-9f15-7bdf58a10e34"><img src="https://wakatime.com/badge/user/fce8eacc-0d9e-4691-9f15-7bdf58a10e34.svg" alt="Total time coded since Oct 3 2022" /></a>
+
 <a href="https://www.twitch.tv/NitraatPlagiaat" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/NitraatPlagiaat?logo=twitchsx&style=for-the-badge&color=444e59&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
