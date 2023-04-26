@@ -1,16 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yirnick van Dijk
 ========================================================================================================================================
 
-Donderse programmeur
+Back-end and database developer in the Netherlands
 --------------------
 
-het programmeurt hier. Wie heeft hier zitten schijten?
-
-* 🌍  I'm based in Almeloooooooooooooooo, The Netherlands
-* 🚀  I'm currently working on [Heavy Metal Music Database](http://hmmdb.nl)
-* 🧠  I'm learning PHP, Laravel, C#
+* 🌍  I'm based in Almelo, The Netherlands
+* 🚀  I'm currently working on [Heavy Metal Music Database](https://hmmdb.nl)
+* 🧠  I'm learning PHP, Laravel, C# and Kotlin.
 * 🤝  I'm open to collaborating on Any project that wakes interest in me
-* ⚡  Guitar player and metal concert visitor. And I love to look at the stars in the sky.
+* ⚡  Guitar player and metal concert visitor.
 
 <a href="https://wakatime.com/@fce8eacc-0d9e-4691-9f15-7bdf58a10e34"><img src="https://wakatime.com/badge/user/fce8eacc-0d9e-4691-9f15-7bdf58a10e34.svg" alt="Total time coded since Oct 3 2022" /></a>
 
@@ -27,6 +25,7 @@ src="https://img.shields.io/twitch/status/NitraatPlagiaat?logo=twitchsx&style=fo
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" /></a>
 </p>
 
 
