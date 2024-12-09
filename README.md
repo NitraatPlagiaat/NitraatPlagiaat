@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Tripboard/Concertboard**
 
-- 🌱 I’m currently learning **C#, Kotlin and JavaScript**
+- 🌱 I’m currently learning **Python, Kotlin and JavaScript**
 
 - 💬 Ask me about **PHP and SQL**
 
